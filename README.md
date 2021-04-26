@@ -22,7 +22,7 @@ Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/6488
 - multi-page (sign-up, sign-in, forgot password)
 - desktop only
 - absolute center
-- scc blur
+- css blur
 - form
 
 ## Authors
