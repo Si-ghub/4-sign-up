@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
@@ -28,6 +28,5 @@ Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/6488
 ## Authors
 
 [Sigita](https://github.com/Si-ghub)
-=======
-# 4-sign-up
->>>>>>> b50ffb06c6b96a76ca77c267b57eaf6e973f3b32
+
+
