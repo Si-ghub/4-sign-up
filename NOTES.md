@@ -9,12 +9,10 @@
   - skirta aprasyti kas, ka ir kodel daro
   - iterpti nuoroda i daroma dizaina
   - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
-- [ ] atlikti dizaino analize
+- [X] atlikti dizaino analize
 - [ ] surasyti HTML
-- [ ] issikrpti nuotraukas ir jas panaudoti:
+- [ ] issikrpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvu kelia
-  - png formatas, del permatomumo savybes
--panaudoti reliatyvu kelia
 - [ ] aprasome stiliu:
   - turinys t.b centre (tiek vertikaliai tiek horizontaliai)
   - pagrindinis plotis t.b fiksuotas
