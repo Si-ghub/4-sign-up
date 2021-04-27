@@ -1,15 +1,15 @@
 # Procesas
 
-- [X] pradine failu struktura V
+- [ ] pradine failu struktura V
   - index.html
   - .gitignore
   - main.css (bet ne butinai vienintelis)
-- [X] paviesinti projekta per Github pages
-- [X] README.md
+- [ ] paviesinti projekta per Github pages
+- [  ] README. md
   - skirta aprasyti kas, ka ir kodel daro
   - iterpti nuoroda i daroma dizaina
   - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
-- [X] atlikti dizaino analize
+- [ ] atlikti dizaino analize
 - [ ] surasyti HTML
 - [ ] issikrpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvu kelia

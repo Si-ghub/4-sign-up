@@ -4,13 +4,13 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Mergaite Sign up
+# Sign up
 
 _28 group website project_
 
-This project is for educational porpuses only. 
+This project is for educational porpuses only. To be continued...
 
-Site published at 
+Site published at: https://si-ghub.github.io/4-sign-up/
 
 Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
