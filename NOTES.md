@@ -10,7 +10,7 @@
   - iterpti nuoroda i daroma dizaina
   - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
 - [x] atlikti dizaino analize
-- [ ] surasyti HTML
+- [x] surasyti HTML
 - [ ] issikrpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvu kelia
 - [ ] aprasome stiliu:
@@ -20,5 +20,12 @@
   - sign up
   - sign in
   - forgot password
+
+  # Pozicionavimas
+  1. Vaikui duodam position: absolute;
+  2. Artimiausiam logiskam teviniam elementui, kuri norime tureti kaip atskaitos taska, suteikiame: 
+  a) 'posotion: relative', jeigu tas elementas neturi kitokiu 'position' savybiu;
+  b) pateikiame takia 'position' savybe kokia tas elementas turi, jei nurodytas;
+
 
 
