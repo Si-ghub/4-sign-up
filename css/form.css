@@ -1,7 +1,6 @@
 .form {
     display: inline-block;
     width: 100%;
-
 }
 .form-row {
     display: inline-block;
@@ -21,7 +20,6 @@ label {
     line-height: 15px;
 }
 
-
 input {
     display: inline-block;
     width: 100%;
@@ -33,7 +31,15 @@ input {
 
 ::placeholder {
     color: #999;
-    
+    font-style: italic;   
+}
+
+input: focus {
+    background-color: yellow;
+}
+
+input: focus-visible {
+    outline-color: red;
 }
 
 button {
@@ -49,5 +55,5 @@ button {
 
 button:hover {
     background-color: #0c3c80;
-    cursor:pointer;
+    cursor: pointer;
 }

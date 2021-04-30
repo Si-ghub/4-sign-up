@@ -41,9 +41,7 @@ body {
     background-position: center;
     position: absolute;
     top: 40px;
-    bottom: 40px;
-
-    
+    bottom: 40px;    
 }
 
 .main-title {
@@ -83,12 +81,10 @@ body {
     right: 0;
 }
 
-
 .form-row > span {
     float: left;
     padding: 11px;
     line-height: 20px ;
-
 }
 
 .form-row > a {
@@ -96,4 +92,8 @@ body {
     text-decoration: none;
     padding: 11px;
     line-height: 20px;
+}
+.form-row > a:hover {
+    text-decoration: underline;
+    color: red;
 }
